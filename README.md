@@ -1,8 +1,8 @@
 ## Olá, me chamo Kawan :)
 
-🌱Estudando python e VBA para auxilio no trabalho  
-👨‍💻Foco em aprender java e outras ferramentas  
-📘Ainda aprendendo a usar github
+-🌱 Trablhando com Python e VBA para automação de processos.    
+-👨‍💻 Tentando aprender java.  
+-📘 Ainda aprendendo a usar github.  
   
 
  <div>
