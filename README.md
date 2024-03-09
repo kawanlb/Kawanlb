@@ -10,7 +10,7 @@
    <h2> Github Stats 📊 </h2>
   <h4> GitHub Profile Stats </h4> 
   <a href="https://github.com/Kawanlb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kawanlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Kawanlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanlb&layout=compact&langs_count=16&theme=dark"/>
 </div>
