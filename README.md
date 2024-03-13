@@ -4,7 +4,7 @@
 
 -🌱 Working on Python and VBA to Automate Tasks.    
 -👨‍💻 Trying to Learn Java.  
--📘 Still learning How to Use Github.  
+-📘 Still Learning How to Use Github.  
 
  <div>
    <h2> Github Stats 📊 </h2>
