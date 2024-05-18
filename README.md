@@ -3,8 +3,7 @@
 <img src="https://s9.gifyu.com/images/SUNRL.gif"  width="120" align="right" alt="kirbygif" />  
 
 -🌱 Working on Python and VBA to Automate Tasks.    
--👨‍💻 Trying to Learn Java.  
--📘 Still Learning How to Use Github.  
+-👨‍💻 Always Learning.    
 
  <div>
    <h2> Github Stats 📊 </h2>
