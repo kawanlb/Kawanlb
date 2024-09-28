@@ -24,8 +24,6 @@
     <img align="center" alt="-C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="-C++" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  
- <a href="https://ibb.co/qYT4CgV"><img src="https://i.ibb.co/qYT4CgV/cmmmm-removebg-preview.png" align="right" width="160" alt="cmmmm-removebg-preview" border="0"></a>
-</div>
   
   ##
  
