@@ -8,9 +8,9 @@
  <div>
    <h2> Github Stats 📊 </h2>
   <a href="https://github.com/Kawanlb">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kawanlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kawanlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
     
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanlb&layout=compact&langs_count=16&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanlb&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -22,12 +22,13 @@
     <img align="center" alt="-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="-C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="-C++" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img src="https://s1.gifyu.com/images/SA1Az.gif"  width="120" align="right" alt="megamangif"  />     
+
  
   
   <div  style="display: inline_block"><br>
 <h2>🚀 Featured Projects</h2>
 
-<img src="https://s1.gifyu.com/images/SAoDQ.gif"  width="120" align="right" alt="megamangif"  />     
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawanlb&repo=Database-Application&show_owner=true&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/kawanlb/Database-Application)
   </div>
