@@ -2,7 +2,7 @@
 
 <img src="https://s9.gifyu.com/images/SUNRL.gif"  width="120" align="right" alt="kirbygif" />  
 
--🌱 Working on Python and VBA to Automate Tasks.    
+-🌱 Cybersecurity Student.
 -👨‍💻 Always Learning.    
 
  <div>
