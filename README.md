@@ -34,7 +34,7 @@
 
  
 <div style="display: inline_block"><br>
- <h2>🌍 Connect with Me</h2>
+ <h2>🌍 Networks</h2>
   <a href="https://instagram.com/kawanlb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/kawanlb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
