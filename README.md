@@ -4,7 +4,9 @@
 
 -🌱 Cybersecurity Student.
 
--👨‍💻 Always Learning.    
+-👨‍💻 Always Learning.
+
+-☠️Focused on red-team.
 
  <div>
    <h2> Github Stats 📊 </h2>
