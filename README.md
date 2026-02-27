@@ -6,26 +6,26 @@
 
 -👨‍💻 Always Learning.
 
--☠️Focused on red-team.
+-☠️Ethical Hacking.
 
     
 <div style="display: inline_block"><br>
     <h2> 🐱‍💻Some Skills </h2>
-    <img align="center" alt="-Linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="-C" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-   <img align="center" alt="-C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img src="https://s1.gifyu.com/images/SA1Az.gif"  width="120" align="right" alt="megamangif"  />     
+    
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,cpp,c,python)](https://skillicons.dev)
+
+   
+<img src="https://s1.gifyu.com/images/SA1Az.gif"  width="120" align="right" alt="megamangif"  />     
 
  
   
-  <div  style="display: inline_block"><br>
+<div  style="display: inline_block"><br>
 <h2>🚀 Featured Projects</h2>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawanlb&repo=Database-Application&show_owner=true&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/kawanlb/Database-Application)
-  </div>
+</div>
 
  
 <div style="display: inline_block"><br>
