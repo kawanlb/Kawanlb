@@ -5,8 +5,11 @@
 ## 👨‍💻 About Me
 
 🎓 Cybersecurity Student focused on Offensive Security
-🔍 Interested in Red Team, Network Security and Active Directory Security
+
+🔍 Interested in Red Team, Network Security and Web Penetration
+
 🛠️ Building labs and security tools to strengthen practical skills
+
 ☠️ Ethical Hacking Enthusiast
 
 ---
