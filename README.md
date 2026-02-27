@@ -1,6 +1,6 @@
 # 🚀 Kawan Santos | Cybersecurity
 
-<img src="https://s9.gifyu.com/images/SUNRL.gif" width="120" align="right" alt="kirbygif" />
+<img src="https://tenor.com/pt-PT/view/kirby-gif-19825368.gif" width="120" align="right" alt="kirbygif" />
 
 ## 👨‍💻 About Me
 
@@ -29,6 +29,13 @@
 * Metasploit
 * BloodHound
 * Hydra
+
+
+<img src="https://tenor.com/pt-PT/view/megaman-x-piki-gif-27289815.gif" width="120" align="right" alt="megaman" />
+
+
+
+
 
 ---
 
