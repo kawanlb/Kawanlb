@@ -39,12 +39,6 @@
 * PortSwigger Web Security Academy
 ---
 
-## 🚀 Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawanlb&repo=Database-Application&show_owner=true&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/kawanlb/Database-Application)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kawanlb&show_icons=true&theme=dark)
